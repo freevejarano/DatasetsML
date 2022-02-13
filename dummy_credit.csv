@@ -1,0 +1,15 @@
+
+Sex,Age,isForeign,Income(USD/Month),CustomType
+M,50,True,2000,good
+M,60,True,3000,good
+F,20,False,1000,bad
+F,32,True,800,good
+F,22,True,1100,bad
+M,40,False,2500,bad
+F,41,False,2500,good
+M,45,False,2500,bad
+F,72,False,900,good
+F,82,True,900,bad
+F,62,True,1000,good
+M,30,True,600,good
+M,20,True,500,bad
