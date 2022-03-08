@@ -1,4 +1,4 @@
-z=num
+z = num
 z = 0
 while (z < 10):
 	z = z + 1
