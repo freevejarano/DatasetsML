@@ -1,13 +1,7 @@
-lst = [] 
-contador = 0
-def nombredelafuncion ():
-  while (contador == 0):
-    for pos,char in enumerate(text):
-      if(char == ';' or char == ',' or char == ' nada '):
-        lst.append(pos)
-    contador = contador + 1
-
-if (lst > 2)
-  print(lst)
-else:
-  print(lst)
+A→B C
+A→ant A all
+B→big C
+B→bus A boss
+B→empty
+C→cat
+C→cow
