@@ -1,5 +1,6 @@
-z = 0
-while (z < 10):
-	z = z + 1
-	
-	print (z)
+A→B C
+A→bad
+B→big C boss
+B→bet
+C→cat
+C→cow
